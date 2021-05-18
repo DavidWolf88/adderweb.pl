@@ -10199,7 +10199,7 @@ body {
     color: #fff;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #ffffffc9;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: #000000;
@@ -10210,15 +10210,15 @@ body {
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #555555;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #555555;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #555555;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #555555;
   }
 }
 
