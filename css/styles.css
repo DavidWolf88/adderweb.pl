@@ -476,6 +476,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 
 .img-thumbnail {
@@ -6400,7 +6401,7 @@ button.bg-black:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 1rem !important;
 }
 
 .rounded-top {
