@@ -97,6 +97,9 @@ function copyToClipboard(text) {
     document.body.removeChild(dummy);
 }
 
+// fadin in functions
+
+
 const faders = document.querySelectorAll(".fade-in"); 
 
 const appearOptions = {
